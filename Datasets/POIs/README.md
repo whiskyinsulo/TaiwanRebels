@@ -6,11 +6,13 @@
 
 # 歷史景點
 
-例如[臺灣警備總司令部軍法處看守所（青島東路 3 號）](https://hsi.nhrm.gov.tw/home/zh-tw/injusticelandmarks/112573)，
+目前不確定會有哪些，但可以從「不義遺址」網站取得一些範例，例如[臺灣警備總司令部軍法處看守所（青島東路 3 號）](https://hsi.nhrm.gov.tw/home/zh-tw/injusticelandmarks/112573)，
 
 ![](https://imgs.gvm.com.tw/upload/gallery/20171212/41453_01.jpg)
 
 # 出版社
+
+暫訂可能會有的出版社
 
 1. [允晨文化](http://www.asianculture.com.tw/front/bin/home.phtml)
 2. [友善書頁合作社](https://fribooker.wordpress.com/)
@@ -21,6 +23,8 @@
 7. [衛城出版社](https://www.facebook.com/acropolispublish/)
 
 # NGO/NPO 組織
+
+暫訂可能會有的非營利組織
 
 1. [人權公約施行監督聯盟](https://covenantswatch.org.tw/)
 2. [台灣人權促進會](https://www.tahr.org.tw/)
