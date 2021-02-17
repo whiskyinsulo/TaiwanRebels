@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+~*.xlsx
+Datasets/Events/左轉有活動/
 
 # C extensions
 *.so
