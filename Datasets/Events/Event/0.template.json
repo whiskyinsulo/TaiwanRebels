@@ -1,0 +1,20 @@
+{
+    "id": "依照活動舉辦的日期與時間，可加上地點 id",
+    "date": "活動日期 20210131",
+    "time_start": "開始時間 14:00",
+    "time_end": "結束時間 16:00",
+    "lieu": "活動地點 左轉有書x慕哲咖啡",
+    "address": "地點地址 臺北市中正區鎮江街 3-1 號",
+    "touat_group": "左轉有書轉貼連結",
+    "title": "標題",
+    "category": "類別，talk 或是其他活動",
+    "speakers": [["講者", "稱謂"]],
+    "registration": "活動報名網址",
+    "ticket": "門票（價格），報名（yes/no）",
+    "fb_event": ["臉書活動頁面或貼文網址", "Banner 宣傳圖片"],
+    "organisators": [["舉辦單位", "臉書頁面或網頁"]],
+    "description": "活動宣傳文字_event.md",
+    "tags": ["#標籤"],
+    "serie": ["#系列活動"],
+    "img": ["相關圖片_event.jpg"]
+}
