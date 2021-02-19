@@ -1,5 +1,5 @@
 {
-    "id": "20210131-1400-1600",
+    "id": "touat_20210131-1400-1600",
     "date": "20210131",
     "time_start": "14:00",
     "time_end": "16:00",
@@ -7,13 +7,17 @@
     "address": "臺北市中正區鎮江街 3-1 號",
     "touat_group": "https://facebook.com/groups/1556727317714336/permalink/3598084136911967/",
     "title": "謝謝你，在世界史的角落找到我：十七世紀臺灣與荷蘭三書",
+    "category": "talk",
     "speakers": [["鄭維中", "中研院台史所副研究員"]],
-    "ticket": "No",
+    "registration": "",
+    "ticket": "no",
     "fb_event": ["https://www.facebook.com/events/3797451220318839/", "20210131-1400-1600.jpg"],
     "organisators": [
         ["衛城出版", "https://www.facebook.com/acropolispublish/"],
         ["左岸文化", "https://www.facebook.com/RiveGauchePublishingHouse/"]
     ],
     "description": "20210131-1400-1600_event.md",
+    "tags": ["2021台北書展轉移場", "看見世界史中的台灣"],
+    "serie": [""],
     "img": ["20210131-1400-1600_event.jpg"]
 }
