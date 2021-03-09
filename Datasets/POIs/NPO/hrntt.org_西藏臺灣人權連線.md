@@ -1,3 +1,26 @@
+---
+id: _uuid
+title: 西藏台灣人權連線
+excerpt:
+website:
+facebook:
+youtube:
+instagram:
+twitter:
+wikipedia:
+mailing:
+donation:
+address:
+mailbox:
+tax_id:
+email:
+tel:
+fax:
+contact:
+logo: _logo.png
+img: .jpg
+---
+
 # 西藏台灣人權連線
 
 ![](./hrntt.org_西藏臺灣人權連線_flag.jpg)

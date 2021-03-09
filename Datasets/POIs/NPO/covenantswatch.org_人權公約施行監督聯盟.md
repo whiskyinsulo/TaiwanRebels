@@ -1,3 +1,26 @@
+---
+id: _uuid
+title: 人權公約施行監督聯盟
+excerpt:
+website:
+facebook:
+youtube:
+instagram:
+twitter:
+wikipedia:
+mailing:
+donation:
+address:
+mailbox:
+tax_id:
+email:
+tel:
+fax:
+contact:
+logo: _logo.png
+img: .jpg
+---
+
 # 人權公約施行監督聯盟
 
 ![](./covenantswatch.org_人權公約施行監督聯盟_banner.jpg)

@@ -1,3 +1,26 @@
+---
+id: _uuid
+title: 經濟民主連合
+excerpt:
+website:
+facebook:
+youtube:
+instagram:
+twitter:
+wikipedia:
+mailing:
+donation:
+address:
+mailbox:
+tax_id:
+email:
+tel:
+fax:
+contact:
+logo: _logo.png
+img: .jpg
+---
+
 # 經濟民主連合
 
 ![](./edunion.org_經濟民主連合_pix1.jpg)

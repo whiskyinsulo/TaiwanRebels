@@ -1,3 +1,26 @@
+---
+id: _uuid
+title: 台灣廢除死刑推動聯盟
+excerpt: 終結罪行，勿奪人命 End Crime, Not Lives - 廢死聯盟於2003年成立，希望台灣有一天能夠成為一個沒有死刑的國家。我們知道這是一個漫長的理解與對話的過程，因此不放棄每一個對話的機會。廢死聯盟舉辦演講、論壇、影展等活動和社會大眾對話；用教育教材工作坊和老師對話，用本土研究、民意調查和政治人物對話；用專業訓練課程和法律人對話…。
+website: https://www.taedp.org.tw/
+facebook: https://www.facebook.com/taedpforum/
+youtube: https://www.youtube.com/channel/UCnTFdXUY5Xih01JqJ7ZxEYA
+instagram:
+twitter:
+wikipedia: https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%BB%A2%E9%99%A4%E6%AD%BB%E5%88%91%E6%8E%A8%E5%8B%95%E8%81%AF%E7%9B%9F
+mailing: https://www.taedp.org.tw/dialogs/newsletter
+donation: https://www.taedp.org.tw/donate
+address: 10051 台北市北平東路 9 號 4 樓之一
+mailbox:
+tax_id:
+email: info@taedp.org.tw
+tel: +886-2-23951158
+fax:
+contact:
+logo: _logo.png
+img: .jpg
+---
+
 # 台灣廢除死刑推動聯盟
 
 ![](./taedp.org_廢除死刑推動聯盟_banner.jpg)

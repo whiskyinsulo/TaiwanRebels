@@ -1,5 +1,24 @@
 ---
-title: 臺灣勞工陣線
+id: _uuid
+title: 台灣勞工陣線（勞陣）
+excerpt:
+website:
+facebook:
+youtube:
+instagram:
+twitter:
+wikipedia:
+mailing:
+donation:
+address:
+mailbox:
+tax_id:
+email:
+tel:
+fax:
+contact:
+logo: _logo.png
+img: .jpg
 ---
 
 # 台灣勞工陣線（勞陣）

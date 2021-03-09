@@ -1,3 +1,26 @@
+---
+id: _uuid
+title: 香港邊城青年
+excerpt:
+website:
+facebook:
+youtube:
+instagram:
+twitter:
+wikipedia:
+mailing:
+donation:
+address:
+mailbox:
+tax_id:
+email:
+tel:
+fax:
+contact:
+logo: _logo.png
+img: .jpg
+---
+
 # 香港邊城青年
 
 ![](./hkoutlanders_香港邊城青年_banner.png)
