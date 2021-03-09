@@ -15,7 +15,7 @@ instagram: ''
 twitter: ''
 ---
 
-![](.\event-fb.jpg)
+![](./event-fb.jpg)
 
 # 社運如何發起群眾集資 - 林大涵
 
