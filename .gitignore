@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 ~$*
 Datasets/Events/左轉有活動/
+temp/
 
 # C extensions
 *.so
