@@ -21,7 +21,7 @@ wikidata: ''
 google_graph: ''
 ---
 
-![](.\speaker.jpg)
+![](./speaker.jpg)
 
 # 林大涵 - 貝殼放大股份有限公司執行長
 
