@@ -1,20 +1,20 @@
 ---
 id: _uuid
 title: 台灣勞工陣線（勞陣）
-excerpt:
-website:
-facebook:
+excerpt: 台灣勞工陣線成立於1984年5月1日，為台灣最早成立的勞工組織，隨著台灣的民主化與社會變遷，勞陣以追求每個勞動者的經濟正義，以及整個國家的社會正義為目標。
+website: https://labor.ngo.tw/
+facebook: https://www.facebook.com/TaiwanLabourFront/
 youtube:
 instagram:
 twitter:
-wikipedia:
-mailing:
-donation:
-address:
+wikipedia: https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E5%8B%9E%E5%B7%A5%E9%99%A3%E7%B7%9A
+mailing: http://labor.ngo.tw/about-labour/newspaper
+donation: http://labor.ngo.tw/donate
+address: 台北市林森南路4-2號4樓
 mailbox:
-tax_id:
-email:
-tel:
+tax_id: 17605566
+email: labornet51@gmail.com
+tel: 02-23217648
 fax:
 contact:
 logo: _logo.png
