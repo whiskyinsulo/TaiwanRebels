@@ -1,0 +1,20 @@
+{
+    "title": "名稱",
+    "website": "網站",
+    "facebook": "臉書專頁",
+    "youtube": "影音頻道",
+    "instagram": "照片",
+    "twitter": "twitter",
+    "wikipedia": "維基百科條目",
+    "mailing": "電子報",
+    "donation": "捐款",
+    "address": "住址",
+    "tax_id": "統一編號",
+    "email": "聯絡 email",
+    "tel": "電話",
+    "fax": "傳真",
+    "manager": "負責人",
+    "logo": "_logo.jpg",
+    "description": "說明文件.md",
+    "img": ["其他圖檔.jpg"]
+}
